@@ -1,0 +1,25 @@
+.mt-40 {
+  margin-top: 40vh;
+}
+
+.mt-30 {
+  margin-top: 30vh;
+}
+
+.customLoader {
+  background-color: rgba(236, 232, 232, 0.7);
+  min-height: 100vh;
+}
+
+body {
+  background-color: gray;
+}
+
+#app {
+  min-height: 100vh;
+  background-color: white; 
+}
+
+.m-10 {
+  margin: 5px;
+}
